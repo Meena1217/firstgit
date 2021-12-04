@@ -1,0 +1,83 @@
+.image{
+    background-image: url("https://wallpapercave.com/wp/wp2186059.jpg");
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.color{
+    background-color: rgba(0,0,0,0.5);
+    height:100vh;
+}
+.color h1{
+    color:white;
+    font-size: 50px;
+    padding-left: 20px;
+    display: inline;
+}
+.color p{
+    color:white;
+    padding-left: 50px;
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+a :hover{
+    color:red;
+}
+.color button{
+    background-color: yellow;
+    border-color: yellow;
+    width: 6%;
+    height: 5%;
+}
+.matter h1{
+    color: white;
+    display: inline;
+}
+.matter h2{
+    color: yellow;
+    display: inline;
+    font-size: 50px;
+}
+.some button{
+    background-color: yellow;
+    border-color: yellow;
+    width: 8%;
+}
+.some{
+    padding-left: 2%;
+}
+.icon1{
+    display: block;
+    background-color: yellow;
+    width: 5%;
+}
+.icon2{
+    display: block;
+    background-color: yellow;
+    width: 5%;
+}
+.icon3{
+    display: block;
+    background-color: yellow;
+    width: 5%;
+}
+.icon4{
+    display: block;
+    background-color: yellow;
+    width: 5%;
+    height: 18%;
+    float: left;
+}
+.sub p{
+    display: inline;
+    background-color: yellow;
+    color: black;
+    float: right;
+    height: 3cm;
+}
+.play{
+    display: inline;
+    float: right;
+}
