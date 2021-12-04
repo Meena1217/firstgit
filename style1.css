@@ -1,0 +1,41 @@
+.bgimage{
+    background-image: url("https://media.istockphoto.com/photos/modern-home-interior-mockup-with-dark-blue-sofa-table-and-decor-in-picture-id1291649034?k=20&m=1291649034&s=170667a&w=0&h=d9xATuYQN3vJHm_fvHeIBmlOmGGctblQJ1P8-IVy3w8=");
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+.color{
+    background-color: rgba(0,0,0,0.5);
+    height:100vh;
+}
+.box {
+    float: left;
+    font-size: larger; 
+    color: white; 
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 35px;
+}
+
+a :hover {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+.group{
+    float: right;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 15px;
+}
+.button :hover{
+    background-color: cadetblue;
+}
